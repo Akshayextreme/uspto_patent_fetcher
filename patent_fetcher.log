@@ -1,0 +1,135 @@
+INFO:root:Total patents between 2017-01-01 - 2017-01-03 are 6502
+INFO:root:Fetching started from 0
+INFO:root:Fetched 100/6502 patents
+INFO:root:Fetching started from 100
+INFO:root:Fetched 200/6502 patents
+INFO:root:Fetching started from 200
+INFO:root:Fetched 300/6502 patents
+INFO:root:Fetching started from 300
+INFO:root:Fetched 400/6502 patents
+INFO:root:Fetching started from 400
+INFO:root:Fetched 500/6502 patents
+INFO:root:Fetching started from 500
+INFO:root:Fetched 600/6502 patents
+INFO:root:Fetching started from 600
+INFO:root:Fetched 700/6502 patents
+INFO:root:Fetching started from 700
+INFO:root:Fetched 800/6502 patents
+INFO:root:Fetching started from 800
+INFO:root:Fetched 900/6502 patents
+INFO:root:Fetching started from 900
+INFO:root:Fetched 1000/6502 patents
+INFO:root:Fetching started from 1000
+INFO:root:Fetched 1100/6502 patents
+INFO:root:Fetching started from 1100
+INFO:root:Fetched 1200/6502 patents
+INFO:root:Fetching started from 1200
+INFO:root:Fetched 1300/6502 patents
+INFO:root:Fetching started from 1300
+INFO:root:Fetched 1400/6502 patents
+INFO:root:Fetching started from 1400
+INFO:root:Fetched 1500/6502 patents
+INFO:root:Fetching started from 1500
+INFO:root:Fetched 1600/6502 patents
+INFO:root:Fetching started from 1600
+INFO:root:Fetched 1700/6502 patents
+INFO:root:Fetching started from 1700
+INFO:root:Fetched 1800/6502 patents
+INFO:root:Fetching started from 1800
+INFO:root:Fetched 1900/6502 patents
+INFO:root:Fetching started from 1900
+INFO:root:Fetched 2000/6502 patents
+INFO:root:Fetching started from 2000
+INFO:root:Fetched 2100/6502 patents
+INFO:root:Fetching started from 2100
+INFO:root:Fetched 2200/6502 patents
+INFO:root:Fetching started from 2200
+INFO:root:Fetched 2300/6502 patents
+INFO:root:Fetching started from 2300
+INFO:root:Fetched 2400/6502 patents
+INFO:root:Fetching started from 2400
+INFO:root:Fetched 2500/6502 patents
+INFO:root:Fetching started from 2500
+INFO:root:Fetched 2600/6502 patents
+INFO:root:Fetching started from 2600
+INFO:root:Fetched 2700/6502 patents
+INFO:root:Fetching started from 2700
+INFO:root:Fetched 2800/6502 patents
+INFO:root:Fetching started from 2800
+INFO:root:Fetched 2900/6502 patents
+INFO:root:Fetching started from 2900
+INFO:root:Fetched 3000/6502 patents
+INFO:root:Fetching started from 3000
+INFO:root:Fetched 3100/6502 patents
+INFO:root:Fetching started from 3100
+INFO:root:Fetched 3200/6502 patents
+INFO:root:Fetching started from 3200
+INFO:root:Fetched 3300/6502 patents
+INFO:root:Fetching started from 3300
+INFO:root:Fetched 3400/6502 patents
+INFO:root:Fetching started from 3400
+INFO:root:Fetched 3500/6502 patents
+INFO:root:Fetching started from 3500
+INFO:root:Fetched 3600/6502 patents
+INFO:root:Fetching started from 3600
+INFO:root:Fetched 3700/6502 patents
+INFO:root:Fetching started from 3700
+INFO:root:Fetched 3800/6502 patents
+INFO:root:Fetching started from 3800
+INFO:root:Fetched 3900/6502 patents
+INFO:root:Fetching started from 3900
+INFO:root:Fetched 4000/6502 patents
+INFO:root:Fetching started from 4000
+INFO:root:Fetched 4100/6502 patents
+INFO:root:Fetching started from 4100
+INFO:root:Fetched 4200/6502 patents
+INFO:root:Fetching started from 4200
+INFO:root:Fetched 4300/6502 patents
+INFO:root:Fetching started from 4300
+INFO:root:Fetched 4400/6502 patents
+INFO:root:Fetching started from 4400
+INFO:root:Fetched 4500/6502 patents
+INFO:root:Fetching started from 4500
+INFO:root:Fetched 4600/6502 patents
+INFO:root:Fetching started from 4600
+INFO:root:Fetched 4700/6502 patents
+INFO:root:Fetching started from 4700
+INFO:root:Fetched 4800/6502 patents
+INFO:root:Fetching started from 4800
+INFO:root:Fetched 4900/6502 patents
+INFO:root:Fetching started from 4900
+INFO:root:Fetched 5000/6502 patents
+INFO:root:Fetching started from 5000
+INFO:root:Fetched 5100/6502 patents
+INFO:root:Fetching started from 5100
+INFO:root:Fetched 5200/6502 patents
+INFO:root:Fetching started from 5200
+INFO:root:Fetched 5300/6502 patents
+INFO:root:Fetching started from 5300
+INFO:root:Fetched 5400/6502 patents
+INFO:root:Fetching started from 5400
+INFO:root:Fetched 5500/6502 patents
+INFO:root:Fetching started from 5500
+INFO:root:Fetched 5600/6502 patents
+INFO:root:Fetching started from 5600
+INFO:root:Fetched 5700/6502 patents
+INFO:root:Fetching started from 5700
+INFO:root:Fetched 5800/6502 patents
+INFO:root:Fetching started from 5800
+INFO:root:Fetched 5900/6502 patents
+INFO:root:Fetching started from 5900
+INFO:root:Fetched 6000/6502 patents
+INFO:root:Fetching started from 6000
+INFO:root:Fetched 6100/6502 patents
+INFO:root:Fetching started from 6100
+INFO:root:Fetched 6200/6502 patents
+INFO:root:Fetching started from 6200
+INFO:root:Fetched 6300/6502 patents
+INFO:root:Fetching started from 6300
+INFO:root:Fetched 6400/6502 patents
+INFO:root:Fetching started from 6400
+INFO:root:Fetched 6500/6502 patents
+INFO:root:Fetching started from 6500
+INFO:root:Fetched 6502/6502 patents
+INFO:root:Fetched : (6502, 6) patents. END
+INFO:root:Total execution time: 2.47 min
